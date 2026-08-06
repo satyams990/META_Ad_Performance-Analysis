@@ -82,7 +82,17 @@ The objective of this project is to help marketing teams:
 
 ## 📷 Dashboard Preview
 
-> Add dashboard screenshots here.
+> ![Facebook](Facebook_Ad_Performance.png)
+📊 Monitors Meta Ads performance through key marketing KPIs and campaign metrics.
+🎯 Interactive filters enable dynamic analysis across demographics, geography, campaigns, and time.
+📈 Developed in Power BI with an executive dashboard for actionable marketing insights.
+
+
+> ![Instagram](Instagram_Ad_Performance.png)
+📊 Interactive Instagram Ad Performance Dashboard tracking campaign KPIs, engagement, conversions, and budget.
+🎯 Dynamic filters with demographic, geographic, and time-based insights for performance analysis.
+📈 Built using Power BI for data-driven marketing decisions.
+
 
 ------------------------------------------------------------------------
 
